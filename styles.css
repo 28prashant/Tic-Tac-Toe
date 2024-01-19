@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20%;
+    background-color: antiquewhite;
+
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+}
+
+
+  
+  .win {
+    background-color: yellow;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #reset {
+    margin: 48px 40%;
+    padding: 20px;
+  }
+    
